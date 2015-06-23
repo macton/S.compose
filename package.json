@@ -1,0 +1,22 @@
+{
+  "name": "s.compose",
+  "version": "1.0.0",
+  "description": "S.compose - Compose",
+  "main": "s.compose.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.compose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.compose/issues"
+  },
+  "homepage": "https://github.com/macton/S.compose#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
